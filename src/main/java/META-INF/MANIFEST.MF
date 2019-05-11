@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Class-Path: jackson-module-parameter-names-2.9.8.jar httpclient-4.5.8.
+ jar validation-api-2.0.1.Final.jar spring-boot-starter-logging-2.1.4.
+ RELEASE.jar mapstruct-1.1.0.Final.jar spring-boot-starter-jdbc-2.1.4.
+ RELEASE.jar springfox-core-2.7.0.jar jul-to-slf4j-1.7.26.jar javax.an
+ notation-api-1.3.2.jar classmate-1.4.0.jar byte-buddy-1.9.12.jar spri
+ ng-boot-starter-json-2.1.4.RELEASE.jar aliyun-java-sdk-core-4.1.0.jar
+  tomcat-embed-core-9.0.17.jar spring-boot-autoconfigure-2.1.4.RELEASE
+ .jar mybatis-spring-boot-autoconfigure-2.0.1.jar httpcore-4.4.11.jar 
+ spring-boot-starter-2.1.4.RELEASE.jar jaxb-impl-2.1.jar javassist-3.2
+ 1.0-GA.jar jackson-core-2.9.8.jar guava-18.0.jar nekohtml-1.9.22.jar 
+ shiro-core-1.3.2.jar thymeleaf-3.0.11.RELEASE.jar jackson-datatype-jd
+ k8-2.9.8.jar spring-jdbc-5.1.6.RELEASE.jar jaxb-core-2.1.14.jar commo
+ ns-fileupload-1.3.1.jar swagger-annotations-1.5.13.jar log4j-to-slf4j
+ -2.11.2.jar spring-expression-5.1.6.RELEASE.jar spring-webmvc-5.1.6.R
+ ELEASE.jar spring-boot-starter-web-2.1.4.RELEASE.jar gson-2.8.5.jar s
+ pring-core-5.1.6.RELEASE.jar aspectjweaver-1.8.9.jar springfox-swagge
+ r2-2.7.0.jar logback-core-1.2.3.jar jackson-datatype-jsr310-2.9.8.jar
+  mybatis-spring-2.0.1.jar thymeleaf-extras-shiro-2.0.0.jar swagger-mo
+ dels-1.5.13.jar springfox-spi-2.7.0.jar slf4j-api-1.7.26.jar jboss-lo
+ gging-3.3.2.Final.jar attoparser-2.0.5.RELEASE.jar mybatis-spring-boo
+ t-starter-2.0.1.jar HikariCP-3.2.0.jar shiro-spring-1.3.2.jar jaxb-ap
+ i-2.3.1.jar logback-classic-1.2.3.jar hibernate-validator-6.0.16.Fina
+ l.jar mysql-connector-java-8.0.15.jar tomcat-embed-el-9.0.17.jar xml-
+ apis-1.4.01.jar commons-io-2.6.jar spring-tx-5.1.6.RELEASE.jar mybati
+ s-3.5.1.jar springfox-schema-2.7.0.jar log4j-api-2.11.2.jar spring-ao
+ p-5.1.6.RELEASE.jar jackson-annotations-2.9.0.jar snakeyaml-1.23.jar 
+ thymeleaf-spring5-3.0.11.RELEASE.jar spring-boot-starter-thymeleaf-2.
+ 1.4.RELEASE.jar spring-boot-2.1.4.RELEASE.jar thymeleaf-extras-java8t
+ ime-3.0.4.RELEASE.jar unbescape-1.1.6.RELEASE.jar commons-codec-1.11.
+ jar jackson-databind-2.9.8.jar xercesImpl-2.11.0.jar springfox-swagge
+ r-ui-2.7.0.jar springfox-spring-web-2.7.0.jar tomcat-embed-websocket-
+ 9.0.17.jar reflections-0.9.11.jar spring-plugin-core-1.2.0.RELEASE.ja
+ r spring-jcl-5.1.6.RELEASE.jar spring-context-5.1.6.RELEASE.jar sprin
+ g-beans-5.1.6.RELEASE.jar spring-boot-starter-tomcat-2.1.4.RELEASE.ja
+ r activation-1.1.1.jar spring-plugin-metadata-1.2.0.RELEASE.jar javax
+ .activation-api-1.2.0.jar springfox-swagger-common-2.7.0.jar shiro-we
+ b-1.3.2.jar spring-web-5.1.6.RELEASE.jar commons-beanutils-1.8.3.jar
+Main-Class: com.bdqn.jiankang.JiankangApplication
+
