@@ -65,7 +65,11 @@
         <dependency>
             <groupId>commons-fileupload</groupId>
             <artifactId>commons-fileupload</artifactId>
+<<<<<<< HEAD
             <version>1.3.3</version>
+=======
+            <version>1.3.1</version>
+>>>>>>> b627cfa3c9ab68018502ce5096da9adbf01a428e
         </dependency>
 
         <!-- 添加Swagger2依赖,用于生成接口文档 -->
@@ -117,6 +121,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-websocket</artifactId>
         </dependency>
+<<<<<<< HEAD
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
@@ -135,6 +140,8 @@
         <!--<groupId>org.apache.commons</groupId>-->
         <!--<artifactId>commons-pool2</artifactId>-->
         <!--</dependency>-->
+=======
+>>>>>>> b627cfa3c9ab68018502ce5096da9adbf01a428e
     </dependencies>
 
     <build>
